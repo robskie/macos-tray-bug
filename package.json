@@ -1,0 +1,15 @@
+{
+  "name": "macos-tray-bug",
+  "version": "1.0.0",
+  "description": "Test project to reproduce macOS High Sierra Electron tray bug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "robskie",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^9.2.0"
+  }
+}
